@@ -1,0 +1,129 @@
+0,0:sh, shushing, shuns, shoguns, so, sowed
+0,1:ow, owed, oh
+0,2:dwelt, drat, draw, draws, drawls, dross, drowsily, drowse, do, dog, dos, dosh
+0,3:railed, raisers, rash, rashest, rated, raw, rt, rose, roses, rot, rota, rotas, rowels, rows, rd
+0,4:oasis, oat, oath, oaths, oar, ow, or, orated
+0,5:we, weer, welsh, wailers, wailed, wash, wot, wort, worth
+0,6:lee, leech, lei, leis, leis, lemur, lemurs, ls
+0,7:pr, precise, precise, press, pressie, prods, pm, pees, pt, pl
+0,8:tr, trues, trump, to, tors, torus, tore, toads
+0,9:ode, old, or, ore, ores, oar, oared
+0,10:ardors, are, ad, ado, adorn, adore, ads, ado, adore, alum, alums, alt
+0,11:er, ed, ea, earners, earns
+0,12:lo, loo, looniest, loonier, lord, led, lea, learner, learners, learns, lead, leads
+1,0:hushing, hustle, hustle, hustled, huge, huge, hugs, he, ho, how, hog
+1,1:gushing, gustier, gustily, guns, gunge, genres, genres, genus, go, gs
+1,2:we, welkin, welters, welts, wet, wets, western, weds, wet, wt, wrasse, wrasse, wroth, wogs, wodge
+1,3:thick, thickly, this, this, theses, thaw, thaws, testis, testier, testily, ted, teds, tea, tease, ta, tassel, tar, taro, taros, two, twos, to, toss, tossers, towel, toward, tr, trailers, trailed, trash, trashes, trawls, trowels, trows
+1,4:ailed, aisle, aisles, ah, as, at, athletes, athletes, athletes, atelier, ateliers, aw, awe, awes, awes, awl, awls, arose
+1,5:ssh, sic, sickies, sickies, sickliest, sickles, sickles, sickles, sics, silk, silks, silkiest, silts, silted, sh, shy, shies, shelters, shes, shear, sees, seers, sail, sailed, sated, slept, slew, swathe, swathed, so, sorta
+1,6:es, em, ems, es, elm, elms
+1,7:mu, mus, muse, music, musics, me, mes, messiah, ms, me, mes, messiah, mes, messiah, meshed, mews, mewl, mt, mp, ml
+1,8:rs, ruin, ruse, ruses, rue, rues, rump, rumple, re, rehouse, rehouses, reuse, res, resew, resews, rem, reels, rm, rod, rode, roared, rot, rt, rpm
+1,9:ls, la, larch, lards, lad, lo, loads, loader, lot
+1,10:do, doltish, dolts, dole, doles, doles, doer, doers, doc, door, drone, drools, dear, deal, dealt, darners, darns, do, dorm, dorms
+1,11:roles, roles, roe, rod, rode, roods, roe, rd, re, red, redo, reds, redo, rel, read, reals, rad, radon, rads
+1,12:ooh, or, ordeals, ore, oral
+2,0:en, ens, eh
+2,1:us, user, used, unrest, unset, unset, unset, unseat, unset, ugh, ugh, uh
+2,2:deli, deli, deters, desert, desert, death, deathly, dear, dearths, dew, duster, dun, duns, due, dwelt
+2,3:elks, elites, elites, ethyl, ethic, ethics, es, est, eh, ed, ea, easily, eat, earthliest, ethyl, ethic, ethics, eta, etas
+2,4:ht, hi, hicks, hilt, hilts, his, hies, hies, his, he, hetero, heteros, hes, heat, heard, hew, ha, hail, hailed, hat, hated, haw, hart, ht
+2,5:ickiest, icy, ice, ilk, ilks, ilea, is, is, isl, isle, isles
+2,6:sh, shoved, shovels, shocked, should, shoe, scheme, secy, serum, sees, sic, sickies, sickies, sickliest, sickles, sickles, sickles, silk, silks, silkiest, silts, silted, seers, ssh
+2,7:eh, echoic, echos, es, er, em, ems, eels
+2,8:uh, us, user, users, ursine, um
+2,9:servery, served, service, servo, sever, senor, senora, send, siring, sirs, sire, sic, sics, sieved, sin, sine, so, soc, sock, socked, sods, sou, soul, snivel, snivels, snicked, snored, sues, sums, sump, sluiced, slur, slurp, slum, slot
+2,10:nerve, nerves, nerved, nevi, nicker, nicked, nice, nicer, niche, niches, no, noels, nor, node, nodal
+2,11:oh, oles, oles, on, ones, ones, or, ordeals, ore, oral, ode, odors
+2,12:ch, chloral, choleric, choleric, chordal, chore, chorea, chorals, cl, clerk, clerked, clever, clevis, co, coltish, cols, con, conics, conserve, conserved, consul, consular, consult, consumes, consumes, consumes, condor, condors, coo, cooler, cooed, corn, corners, cornices, corniest, cords, core, cored, corals, cod, coda, co, coo, cools, cooler, coolers, coons, coroners, corn, corners, cornices, corniest, cordons, cords, core, cored, corals, coeds, crones, crones, croon, crooners, croons, credo, credo
+3,0:gin, gins, gnus, gustier, gustily, guns, genres, genres, genus
+3,1:nip, night, night, nu, nude, nudest, neg, neg
+3,2:sh, shpt, shipmates, shin, st, stinks, sties, stile, stiles, stile, steins, stern, snugs, sedge, sea, seat, seaworthy
+3,3:ti, tinsel, tinseled, tinkled, ties, ties, tilers, tiled, terse, terns, tr, troth, ts, thick, thickly, this, this, theses, thetas, thaw, thaws, ted, teds, tea, tease, teat
+3,4:linkups, links, lie, liter, liters, let, lei, leis, let, lets, lyceum, lyceums, ltd, lie, let, lets, led, lea, leash, lease, let
+3,5:3,6:cps, cpd, ck, ch, choc, chocs, choicer, chosen, churls, chump, chess, chert, cylinders, cert, cs, ciao
+3,7:hp, ho, hovering, hovel, hovels, hock, hocked, hoick, hosier, hosiers, hours, hoe, hoer, hoers, hula, hurl, hurls, he, heckle, hecklers, heckle, heckled, hes, hero, heme
+3,8:over, overt, overtone, overt, overture, overtures, overtures, overusing, over, overusing, overs, overlords, ovens, ocker, ocher, ode, odes, oi, oh, osiers, ours
+3,9:iris, irises, irked, ire, iv, ice, in, insular, insult, indoor, is, isl
+3,10:es, est, er, eructation, eructations, eructing, eve, eons, en, ens, ensue, ensues, ensure, es
+3,11:ls, lei, leis, lends, lender, lo, loners, loo, lord
+3,12:ht, ho, hols, hoe, hoer, hoers, honest, honers, horniest
+4,0:in, inset, insert, insert, inserted, inset, inst, instr, inset, inset
+4,1:ht, hp, hr, hi, hip, hing, hind
+4,2:roam, rosin, rosiest, rose, roses, rot, rota, rotas, roil, roe, rt, rpm, re, res, resin, resit, reins, rel, rely, relics, relish, relish, relished, release, res, rest, resew, rt, rs
+4,3:es, eta, etas, er, elks, elites, ethyl, ethic, ethics, es, est
+4,4:in, index, indoor, inured, inset, insert, insert, inserted, inset, insets, is, iotas, ilk, ilks, ilia, ilea, it, its
+4,5:kn, knits, ks, kph, kind, kinds, kilts, kilted, kite, kith, kite, kited, kc, kl
+4,6:pure, pursed, pus, push, pusher, pun, punks, punier, pd, pk
+4,7:devious, devise, devour, deck, dude, dun, duns, dunks, dc, do, dove, doves, dove, doves, doves, doc, dock, dos, douse, douses, doer, doers, dc
+4,8:ck, cert, cert, certainty, cs, co, cover, covert, covert, coveys, cover, covering, coverings, coven, cod, coir, coiners, coins, cosines, cousin, coursers, court, ch, chosen, churls, chump, checkup, checkups, chess, chert
+4,9:very, versing, veins, vend, vendors, vi, virus, viruses, vireo, viceroys, viced, vine, vise, voice, voices, voiced
+4,10:risen, rut, ruin, rusting, ruse, ruses, rs, re, res, resin, resit, resign, resit, rest, resting, reverting, rel, reins, rend, res, resin, resume, resume, riv, river, rived, ricked, riced, rich, richer, rinds, risen
+4,11:sin, sing, sic, sit, sit, sire, sirens, surtitles, suit, suit, survey, surveyor, st, sting, sh, shoe, shoo, sloe, sloes, servery, served, service, servo, sever, senor, senora, sens, send
+4,12:ti, tincture, tinctured, tincture, ting, tings, tic, titan, titans, tires, tires, ts, tho, tholes, tholes, thorn, thornier, thorns
+5,0:gut, guts, gin, gins
+5,1:pm, pd, puts, pug, pt, pg, pr, proxy, prom, pros, prosiest, proteins, phi, pi, pin
+5,2:ta, taus, tax, taxers, taxed, task, to, tom, toil, toilers, toilets, toileted, toilets, toiled, toe, tore, torte, tortes, tortes, torts, torte, tortes, tors, torn, terse, terns, testis, testily, tested, tr, throes, throes, thin, thins, thing
+5,3:ox, oat, oath, oaths, om, osiers, oi, oinks, oiks, oily, or, ore, ores, ores
+5,4:saxes, snit, so, soiled, sorta, sore, sorest, sorties, sorts, skin, skier, skiers, skit, skits, sin, sinus, silk, silts, silted, sit, sited
+5,5:nu, nursery, nurserymen, nursed, nude, nudest, nuder, nude, nuder, nil, nit, niter, nits
+5,6:uh, urn, urns, us, usher, user, used, unrest, unreels, undertow, undertows, undershot, undo, undoes, unsay, unsays, unset, unset, unis, unit, unites, unites, unites, united, up, upshot
+5,7:sh, shoe, shot, short, shorten, short, shorting, shy, shyer, shred, shreds, shuns, sever, severing, severs, sevens, surmised, suds, sudsier, sunsets, sunk, sup, scours, scheme, spur, spurts, spurted, spurn, spud, spuds, spunk, spunks, spunkier, spud, spy
+5,8:er, eructation, eructations, eructing, eh, es, esp, espy, eve, even, evens, echos, ed
+5,9:kt, krone, krona, keratin, keratin, key, kc
+5,10:us, user, uric, uric, urine
+5,11:in, invite, inc, incur, incur, incurious, it, it, its, is, isl, isle, isles, irked, ire, iris, irises
+5,12:gin, git, git, girl, girls, gt, gs
+6,0:up, ugh
+6,1:duly, dump, dumping, do, dove, doves, duping, dpi
+6,2:my, mu, mus, muse, must, mud, mt, ma, mayo, mauls, maxed, mas, maser, masers, mate, maters, math, maths, mo, mos, mote, motel, motet, motets, moths, moi, moil, moiled, morph, morphing, morphine, morphs, more, mores, mores, mortise, morn, mt, mp, mph
+6,3:ax, axed, am, as, ask, at
+6,4:xor
+6,5:dermis, do, door, dole, doer, doers, doyen, drunks, dun, duns, dunks, dude
+6,6:rm, rt, re, res, resit, resow, rest, reels, retools, retools, red, redo, reds, rd, rs, rushed, ruse, run, ruder
+6,7:ho, honey, hoe, hoist, hoisted, hot, hotting, ht, hymen, hr, he, hero, heron, herons, heroism, heroism, hey, hes, hunks, hunkier
+6,8:yo, yon, yr, ye, yes
+6,9:raid, raids, raised, rain, rainy, raved, ravine, ratios, ration, racing, racist, rating, ratings, rt, roe, roister, roisters, rot, rota, rotating, rotting, romeo, romeos, rt, rye, rut, ruin, rusting, ruse, ruses, re, res, rescind, revers, reversing, revel, revels, revisers, recover, recovering, recheck, rechecks, red, reds, redo
+6,10:ta, tans, tat, tacit, tar, tart, taro, tared, ttys, tr, trans, tracing, tracings, trons, troys, trey, treys, ti, ting, tings, tic, tits, title, tires, tires, turkeys, turkeys
+6,11:cw, ca, canoe, canoeist, cane, canto, cantor, canoe, canoeist, caves, cation, cations, catting, cart, carton, cartons, carotid, carotids, caroms, cart, carting, care, cared, ct, ctr, cg, citations, citrons, citruses, cu, cur, curatives, curate, curating, curt, curtain, curtains, curt, curtain, curtains, cured, cur, curs, curses, curved, curl, curls, curies, curies, curio, curios, curious, curium
+6,12:nit, nit, nits, nisei
+7,0:over, overs, over, ovule, om, ought
+7,1:ts, tum, tumor, to, tom, tomes, tough, toughs
+7,2:us, user, user, um
+7,3:ye, yews, yens, yo, yule, yum, ya
+7,4:ode, odes, ox, oat, oath, oaths
+7,5:es, est, eels, ether, er, ed, ex, exodus
+7,6:ti, time, time, ts, to, tors, towel, too, tool, toe, toe, too, tool, teen, terms, terse, terser, terns, ted, teds, tho, thyme, three, thru, thuds, thunders, thunks, thuds, tr
+7,7:me, menacing, mentored, meta, mi, miens, misters, misted, miser, miter, miters, ms, mo, money, moi, moiety, motion, motions, motivating, mote, mortise, mortised, mortise, more, mores, mt, my
+7,8:on, onside, oi, om, omens, omits, oms, or, orations, orating, ore, ores, oh, ohm
+7,9:ti, tidal, tide, tied, ties, tinsel, tiny, tn, ten, tens, tensed, ta, tans, tacit, tacit, tat, tar, taro, tart, tarting, tared, to, toe, tom, torturing, torture, torus, tore, toyed, toys, tr, trans, tract, tracing, tracings, trons, troys, trey, treys, tyke, tykes
+7,10:aid, aide, an, ans, any, anise, ant, antis, ante, av, at, attic, ac, acing, at, attn, atty, atishoo, are
+7,11:velds, veal, veins, vi, vise, vised, vied, view, vine, vitae, vain, van, vatting, vac, vary
+7,12:wale, waled, wad, wads, wades, wave, waved, waves, we, welds, weds, weans
+8,0:me, mes, mt, mo, movers
+8,1:vs
+8,2:snowstorm, snoot, snoots, sneer, sneers, servo, servo, slow, sloe, slew, slews, sleets, sloe, sloe, sloes, slum, sump, st, stud, stoup, stud
+8,3:lo, lows, loo, loos, looser, loosed, loot, loots, looters, looted, lee, ls, lo, loo, loos, looser, loosed, loot, loots, looters, looted, lodes, loamy, loathing, lymph, lust, lumping, ludo
+8,4:eons, en, ens, else
+8,5:or, orientating, ow, other
+8,6:smithy, swoon, swoons, sweet, sit, sited, so, soon, smithy, st, stormy, stow, stools, stools, stood, steely, stern, sterns, seen, sermon, sermons, sex
+8,7:is, ion, ions, it, its
+8,8:eons, em, emits, ems, en, ens, entry, entrust, entrusting, either, eta, eons, em, emits, ems, emotion, emotions
+8,9:no, nose, noise, noised, niacin, nit, nitrating, net, netting, naive, nave, navel, navies, native, natives, natty, natures, naturist, natures, natures, narky, no, noise, noised, not, notary, nor
+8,10:id, ides, idea, ideal, idea, is, ion, ions, in, intact, into, intro, introit, introits, iv, it, item, items, item, items
+8,11:ed, edit, es, ea, ea, eat, eat, eating
+8,12:aleatory, ad, ads, aw, awe, awed, awes, av, avian, aviator, aviary
+9,0:re, res, rest, rem, rm
+9,1:er, er, es, est, em
+9,2:re, res, rest, rem, rs
+9,3:no, noose, noels, new, news, newsmen, newsmen, need, needs
+9,4:ow, on, only
+9,5:wrist, writer, writers, writhe, writhed, wroth, won, woos, wooers, wooed, woe, worm, wormy, worms, worst, worsted, wool, woolen, woolens, woe, wot, woe, woes, wool, woolen, woolens, wooers, wooed, wood, woodsiest, we, weest, weer, weed, weedses
+9,6:rm, rime, rims, risers, rime, rims, rite, rites, rs, rows, rowels, roster, rosters, rose, roe, rot, roe, roods
+9,7:my, myna, me, menacing, mentored, meta, memo, memoir, memoirs, memory, mi, miens, misters, misted, miser, miter, miters, ms
+9,8:yo, yon, ye, yens, yet, yetis
+9,9:oi, on, onside, onto
+9,10:so, soy, sonar, sea, sewn, sea, seat, seat, sin, sine, sit, sittings, snivel, snit, snared, snored
+9,11:dale, dales, deal, dew, deviant, deviating, deans, dear, dis, die, dies, din, dinar, dint, diva, dive, dives, diva, divans, diatom, diary
+9,12:la, lad, lades, lave, lava, led, lea, lead, leads, lei, leis, levity, lea, leans
